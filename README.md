@@ -1,2 +1,2 @@
-# spring-boot-apps
-Repo for Spring Boot apps by Abhijeet
+# movie-listing-api
+Repo for a movie listing app by Abhijeet
